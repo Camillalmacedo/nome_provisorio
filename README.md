@@ -1,2 +1,2 @@
-# nome_provisorio
-A empresa "xxxxx" utiliza Sistema de Controle de Produção 
+# Projeto_VeriFacil
+A empresa metalúrgica "Macedo's Torno" estava com dificuldades no para alcançar um método de controle de produção eficaz e de fácil utilização por todos os colaboradores do setor de Usinagem. A plataforma que era utilizada anteriormente não permitia coletar os dados das peças de forma organizada e gerava atrasos entre os setores. Felizmente, uma das líderes do departamento de TI da empresa solucionou este problema através do Projeto VeriFácil, que visa a coleta e organização dos dados respectivos de cada peça segundo o numero do lote de fabricação, operação realizada, situação após medições como aprovada ou reprovada e data que foi usinada. Este projeto permitiu a otimização do tempo de fabricação e permitiu que os colaboradores facilmente entendessem seu funcionamento, detectassem erros e apromorassem seus mecanismos.
